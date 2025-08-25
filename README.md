@@ -22,7 +22,7 @@ Gain a solid understanding of Python basics, such as:
 
 | Notebook | Type | Topic |
 | --- | --- | --- |
-| 1 | Lecture | Getting Started with Python |
+| [Notebook 01](/notebooks/01_getting_started.ipynb) | Lecture | Getting Started with Python |
 | 2 | Lecture | Python Basics |
 | 3 | Lecture | Functions |
 | 4 | Lecture | Operators & Conditional Statements |
