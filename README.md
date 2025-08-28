@@ -27,6 +27,8 @@ Gain a solid understanding of Python basics, such as:
 | [Notebook 03](/notebooks/03_functions.ipynb) | Lecture | Functions |
 | 4 | Lecture | Operators & Conditional Statements |
 | [Notebook 05](/notebooks/05_exercises_expressions.ipynb) | Exercises | Expressions |
+| [Notebook 06](/notebooks/06_exercises_variables.ipynb) | Exercises | Variables |
+| [Notebook 07](/notebooks/07_exercises_arithmetic_operators.ipynb) | Exercises | Arithmetic Operators |
 
 ### Sprint 2: Intermediate Python
 
