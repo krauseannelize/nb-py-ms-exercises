@@ -25,7 +25,7 @@ Gain a solid understanding of Python basics, such as:
 | [Notebook 01](/notebooks/01_getting_started.ipynb) | Lecture | Getting Started with Python |
 | [Notebook 02](/notebooks/02_python_basics.ipynb) | Lecture | Python Basics |
 | [Notebook 03](/notebooks/03_functions.ipynb) | Lecture | Functions |
-| 4 | Lecture | Operators & Conditional Statements |
+| [Notebook 04](/notebooks/04_operators_conditional_statements.ipynb) | Lecture | Operators & Conditional Statements |
 | [Notebook 05](/notebooks/05_exercises_expressions.ipynb) | Exercises | Expressions |
 | [Notebook 06](/notebooks/06_exercises_variables.ipynb) | Exercises | Variables |
 | [Notebook 07](/notebooks/07_exercises_arithmetic_operators.ipynb) | Exercises | Arithmetic Operators |
