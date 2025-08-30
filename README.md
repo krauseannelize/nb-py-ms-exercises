@@ -30,6 +30,7 @@ Gain a solid understanding of Python basics, such as:
 | [Notebook 06](/notebooks/06_exercises_variables.ipynb) | Exercises | Variables |
 | [Notebook 07](/notebooks/07_exercises_arithmetic_operators.ipynb) | Exercises | Arithmetic Operators |
 | [Notebook 08](/notebooks/08_exercises_functions.ipynb) | Exercises | Functions |
+| [Notebook 09](/notebooks/09_exercises_conditions.ipynb) | Exercises | Conditions |
 
 ### Sprint 2: Intermediate Python
 
