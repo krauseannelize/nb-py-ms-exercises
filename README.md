@@ -33,6 +33,7 @@ Gain a solid understanding of Python basics, such as:
 | [Notebook 09](/notebooks/09_exercises_conditions.ipynb) | Exercises | Conditions |
 | [Notebook 10](/notebooks/10_assessment_sprint_1.ipynb) | Assessment | Sprint 1 |
 | [Notebook 11](/notebooks/11_exercises_hello_advanced.ipynb) | Exercises | Hello Advanced |
+| [Notebook 12](/notebooks/12_exercises_functions_in_depth.ipynb) | Exercises | Functions In-Depth |
 
 ### Sprint 2: Intermediate Python
 
@@ -47,10 +48,10 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 
 | Notebook | Type | Topic |
 | --- | --- | --- |
-| tbd | Lecture | Strings & Lists in Python |
-| tbd | Lecture | Iterations with Loops |
-| tbd | Lecture | Dictionaries, Tuples & Sets |
-| tbd | Lecture | Recap: Python Fundamentals |
+| 13 | Lecture | Strings & Lists in Python |
+| 14 | Lecture | Iterations with Loops |
+| 15 | Lecture | Dictionaries, Tuples & Sets |
+| 16 | Lecture | Recap: Python Fundamentals |
 
 ## Python for DA
 
