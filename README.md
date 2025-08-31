@@ -32,6 +32,7 @@ Gain a solid understanding of Python basics, such as:
 | [Notebook 08](/notebooks/08_exercises_functions.ipynb) | Exercises | Functions |
 | [Notebook 09](/notebooks/09_exercises_conditions.ipynb) | Exercises | Conditions |
 | [Notebook 10](/notebooks/10_assessment_sprint_1.ipynb) | Assessment | Sprint 1 |
+| [Notebook 11](/notebooks/11_exercises_hello_advanced.ipynb) | Exercises | Hello Advanced |
 
 ### Sprint 2: Intermediate Python
 
