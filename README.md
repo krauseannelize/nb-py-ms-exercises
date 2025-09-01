@@ -48,7 +48,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 
 | Notebook | Type | Topic |
 | --- | --- | --- |
-| 13 | Lecture | Strings & Lists in Python |
+| [Notebook 13](/notebooks/13_strings_lists_in_python.ipynb) | Lecture | Strings & Lists in Python |
 | 14 | Lecture | Iterations with Loops |
 | 15 | Lecture | Dictionaries, Tuples & Sets |
 | 16 | Lecture | Recap: Python Fundamentals |
