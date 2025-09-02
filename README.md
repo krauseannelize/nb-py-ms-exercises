@@ -52,6 +52,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | 14 | Lecture | Iterations with Loops |
 | 15 | Lecture | Dictionaries, Tuples & Sets |
 | 16 | Lecture | Recap: Python Fundamentals |
+| [Notebook 17](/notebooks/17_exercises_intro_to_strings.ipynb) | Exercises | Intro to Strings |
 
 ## Python for DA
 
