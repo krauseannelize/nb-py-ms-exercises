@@ -55,6 +55,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | [Notebook 17](/notebooks/17_exercises_intro_to_strings.ipynb) | Exercises | Intro to Strings |
 | [Notebook 18](/notebooks/18_exercises_lists.ipynb) | Exercises | Lists |
 | [Notebook 19](/notebooks/19_exercises_booleans.ipynb) | Exercises | Booleans |
+| [Notebook 20](/notebooks/20_exercises_loops.ipynb) | Exercises | Loops |
 
 ## Python for DA
 
