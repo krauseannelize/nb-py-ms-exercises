@@ -56,6 +56,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | [Notebook 18](/notebooks/18_exercises_lists.ipynb) | Exercises | Lists |
 | [Notebook 19](/notebooks/19_exercises_booleans.ipynb) | Exercises | Booleans |
 | [Notebook 20](/notebooks/20_exercises_loops.ipynb) | Exercises | Loops |
+| [Notebook 21](/notebooks/21_exercises_while_loop.ipynb) | Exercises | While Loops |
 
 ## Python for DA
 
