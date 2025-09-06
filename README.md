@@ -59,6 +59,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | [Notebook 21](/notebooks/21_exercises_while_loop.ipynb) | Exercises | While Loops |
 | [Notebook 22](/notebooks/22_exercises_dictionaries.ipynb) | Exercises | Dictionaries |
 | [Notebook 23](/notebooks/23_exercises_tuple.ipynb) | Exercises | Tuple |
+| [Notebook 24](/notebooks/24_exercises_set.ipynb) | Exercises | Set |
 
 ## Python for DA
 
