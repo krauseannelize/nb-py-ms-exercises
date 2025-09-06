@@ -60,6 +60,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | [Notebook 22](/notebooks/22_exercises_dictionaries.ipynb) | Exercises | Dictionaries |
 | [Notebook 23](/notebooks/23_exercises_tuple.ipynb) | Exercises | Tuple |
 | [Notebook 24](/notebooks/24_exercises_set.ipynb) | Exercises | Set |
+| [Notebook 25](/notebooks/25_assessment_sprint_2.ipynb) | Assessment | Sprint 2 |
 
 ## Python for DA
 
