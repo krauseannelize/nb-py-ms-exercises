@@ -51,7 +51,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | [Notebook 13](/notebooks/13_strings_lists_in_python.ipynb) | Lecture | Strings & Lists in Python |
 | [Notebook 14](/notebooks/14_interations_with_loops.ipynb) | Lecture | Iterations with Loops |
 | [Notebook 15](/notebooks/15_dictionaries_tuples_sets.ipynb) | Lecture | Dictionaries, Tuples & Sets |
-| 16 | Lecture | Recap: Python Fundamentals |
+| [Notebook 16](/notebooks/16_recap_python_fundamentals.ipynb) | Lecture | Recap: Python Fundamentals |
 | [Notebook 17](/notebooks/17_exercises_intro_to_strings.ipynb) | Exercises | Intro to Strings |
 | [Notebook 18](/notebooks/18_exercises_lists.ipynb) | Exercises | Lists |
 | [Notebook 19](/notebooks/19_exercises_booleans.ipynb) | Exercises | Booleans |
