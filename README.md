@@ -63,6 +63,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | [Notebook 25](/notebooks/25_assessment_sprint_2.ipynb) | Assessment | Sprint 2 |
 | [Notebook 26](/notebooks/26_exercises_nested_for_loops.ipynb) | Exercises | Nested For Loops |
 | [Notebook 27](/notebooks/27_exercises_nested_data_structures.ipynb) | Exercises | Nested Data Structures |
+| [Notebook 28](/notebooks/28_exercises_operations_on_lists.ipynb) | Exercises | Operations on Lists |
 
 ## Python for DA
 
