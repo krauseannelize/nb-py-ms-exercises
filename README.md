@@ -62,6 +62,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | [Notebook 24](/notebooks/24_exercises_set.ipynb) | Exercises | Set |
 | [Notebook 25](/notebooks/25_assessment_sprint_2.ipynb) | Assessment | Sprint 2 |
 | [Notebook 26](/notebooks/26_exercises_nested_for_loops.ipynb) | Exercises | Nested For Loops |
+| [Notebook 27](/notebooks/27_exercises_nested_data_structures.ipynb) | Exercises | Nested Data Structures |
 
 ## Python for DA
 
