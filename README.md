@@ -64,6 +64,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | [Notebook 26](/notebooks/26_exercises_nested_for_loops.ipynb) | Exercises | Nested For Loops |
 | [Notebook 27](/notebooks/27_exercises_nested_data_structures.ipynb) | Exercises | Nested Data Structures |
 | [Notebook 28](/notebooks/28_exercises_operations_on_lists.ipynb) | Exercises | Operations on Lists |
+| [Notebook 29](/notebooks/29_challenge_advanced_code.ipynb) | Challenge | Advanced Code Challenge |
 
 ## Python for DA
 
