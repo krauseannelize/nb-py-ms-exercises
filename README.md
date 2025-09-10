@@ -50,23 +50,23 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 
 | Notebook | Type | Topic |
 | --- | --- | --- |
-| [Notebook 13](/notebooks/13_strings_lists_in_python.ipynb) | Lecture | Strings & Lists in Python |
-| [Notebook 14](/notebooks/14_interations_with_loops.ipynb) | Lecture | Iterations with Loops |
-| [Notebook 15](/notebooks/15_dictionaries_tuples_sets.ipynb) | Lecture | Dictionaries, Tuples & Sets |
-| [Notebook 16](/notebooks/16_recap_python_fundamentals.ipynb) | Lecture | Recap: Python Fundamentals |
-| [Notebook 17](/notebooks/17_exercises_intro_to_strings.ipynb) | Exercises | Intro to Strings |
-| [Notebook 18](/notebooks/18_exercises_lists.ipynb) | Exercises | Lists |
-| [Notebook 19](/notebooks/19_exercises_booleans.ipynb) | Exercises | Booleans |
-| [Notebook 20](/notebooks/20_exercises_loops.ipynb) | Exercises | Loops |
-| [Notebook 21](/notebooks/21_exercises_while_loop.ipynb) | Exercises | While Loops |
-| [Notebook 22](/notebooks/22_exercises_dictionaries.ipynb) | Exercises | Dictionaries |
-| [Notebook 23](/notebooks/23_exercises_tuple.ipynb) | Exercises | Tuple |
-| [Notebook 24](/notebooks/24_exercises_set.ipynb) | Exercises | Set |
-| [Notebook 25](/notebooks/25_assessment_sprint_2.ipynb) | Assessment | Sprint 2 |
-| [Notebook 26](/notebooks/26_exercises_nested_for_loops.ipynb) | Exercises | Nested For Loops |
-| [Notebook 27](/notebooks/27_exercises_nested_data_structures.ipynb) | Exercises | Nested Data Structures |
-| [Notebook 28](/notebooks/28_exercises_operations_on_lists.ipynb) | Exercises | Operations on Lists |
-| [Notebook 29](/notebooks/29_challenge_advanced_code.ipynb) | Challenge | Advanced Code Challenge |
+| [Notebook 13](/notebooks/s02_intermediate_python/13_strings_lists_in_python.ipynb) | Lecture | Strings & Lists in Python |
+| [Notebook 14](/notebooks/s02_intermediate_python/14_interations_with_loops.ipynb) | Lecture | Iterations with Loops |
+| [Notebook 15](/notebooks/s02_intermediate_python/15_dictionaries_tuples_sets.ipynb) | Lecture | Dictionaries, Tuples & Sets |
+| [Notebook 16](/notebooks/s02_intermediate_python/16_recap_python_fundamentals.ipynb) | Lecture | Recap: Python Fundamentals |
+| [Notebook 17](/notebooks/s02_intermediate_python/17_exercises_intro_to_strings.ipynb) | Exercises | Intro to Strings |
+| [Notebook 18](/notebooks/s02_intermediate_python/18_exercises_lists.ipynb) | Exercises | Lists |
+| [Notebook 19](/notebooks/s02_intermediate_python/19_exercises_booleans.ipynb) | Exercises | Booleans |
+| [Notebook 20](/notebooks/s02_intermediate_python/20_exercises_loops.ipynb) | Exercises | Loops |
+| [Notebook 21](/notebooks/s02_intermediate_python/21_exercises_while_loop.ipynb) | Exercises | While Loops |
+| [Notebook 22](/notebooks/s02_intermediate_python/22_exercises_dictionaries.ipynb) | Exercises | Dictionaries |
+| [Notebook 23](/notebooks/s02_intermediate_python/23_exercises_tuple.ipynb) | Exercises | Tuple |
+| [Notebook 24](/notebooks/s02_intermediate_python/24_exercises_set.ipynb) | Exercises | Set |
+| [Notebook 25](/notebooks/s02_intermediate_python/25_assessment_sprint_2.ipynb) | Assessment | Sprint 2 |
+| [Notebook 26](/notebooks/s02_intermediate_python/26_exercises_nested_for_loops.ipynb) | Exercises | Nested For Loops |
+| [Notebook 27](/notebooks/s02_intermediate_python/27_exercises_nested_data_structures.ipynb) | Exercises | Nested Data Structures |
+| [Notebook 28](/notebooks/s02_intermediate_python/28_exercises_operations_on_lists.ipynb) | Exercises | Operations on Lists |
+| [Notebook 29](/notebooks/s02_intermediate_python/29_challenge_advanced_code.ipynb) | Challenge | Advanced Code Challenge |
 
 ## Python for DA
 
