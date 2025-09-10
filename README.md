@@ -35,6 +35,8 @@ Gain a solid understanding of Python basics, such as:
 | [Notebook 11](/notebooks/11_exercises_hello_advanced.ipynb) | Exercises | Hello Advanced |
 | [Notebook 12](/notebooks/12_exercises_functions_in_depth.ipynb) | Exercises | Functions In-Depth |
 
+---
+
 ### Sprint 2: Intermediate Python
 
 Learn how to handle real-world data challenges by diving deeper into Python’s powerful features:
@@ -68,4 +70,44 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 
 ## Python for DA
 
-[placeholder]
+### Sprint 3: Pandas Foundation
+
+- Build a strong foundation in Python and learn Pandas for data analysis.
+- Cover key topics including the fundamentals of Pandas and core data wrangling techniques, along with exploring datasets and summarizing data.
+
+| Notebook | Type | Topic |
+| --- | --- | --- |
+| [placeholder] | [placeholder] | [placeholder] |
+
+---
+
+### Sprint 4: Data Wrangling with Pandas
+
+- Focus on cleaning and transforming messy datasets to make them analysis-ready.
+- Learn to merge and concatenate DataFrames, perform data assessment and cleaning, and apply aggregation techniques.
+
+| Notebook | Type | Topic |
+| --- | --- | --- |
+| [placeholder] | [placeholder] | [placeholder] |
+
+---
+
+### Sprint 5: Exploratory Data Analysis (EDA) with Pandas
+
+- Explore essential tools and techniques for effective data exploration.
+- Understand and practice univariate, bivariate, and multivariate analysis along with other EDA methods.
+
+| Notebook | Type | Topic |
+| --- | --- | --- |
+| [placeholder] | [placeholder] | [placeholder] |
+
+---
+
+### Sprint 6: Project Week
+
+- Apply your knowledge in a hands-on project.
+- Gain practical experience in cleaning, preparing, exploring, visualizing, and summarizing data.
+
+| Notebook | Type | Topic |
+| --- | --- | --- |
+| [placeholder] | [placeholder] | [placeholder] |
