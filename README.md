@@ -82,7 +82,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | 32 | Lecture | Accessing and Filtering DataFrame |
 | 33 | Lecture | Working With DataFrames |
 | [Notebook 34](/notebooks/s03_pandas_foundation/34_exercises_pandas_series.ipynb) | Exercises | Introduction to Pandas Series |
-| 35 | Exercises | Pandas DataFrame |
+| [Notebook 35](/notebooks/s03_pandas_foundation/35_exercises_pandas_dataframe.ipynb) | Exercises | Pandas DataFrame |
 | 36 | Exercises | Pandas Foundations (Building on the Basics) |
 
 ---
