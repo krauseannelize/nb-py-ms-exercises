@@ -78,7 +78,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | Notebook | Type | Topic |
 | --- | --- | --- |
 | [Notebook 30](/notebooks/s03_pandas_foundation/30_intro_to_pandas.ipynb) | Lecture | Intro to Pandas |
-| 31 | Lecture | Pandas DataFrame & Data Importing |
+| [Notebook 31](/notebooks/s03_pandas_foundation/31_pandas_dataframe_data_importing.ipynb) | Lecture | Pandas DataFrame & Data Importing |
 | 32 | Lecture | Accessing and Filtering DataFrame |
 | 33 | Lecture | Working With DataFrames |
 | [Notebook 34](/notebooks/s03_pandas_foundation/34_exercises_pandas_series.ipynb) | Exercises | Introduction to Pandas Series |
