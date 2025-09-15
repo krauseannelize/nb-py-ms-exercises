@@ -94,7 +94,14 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 
 | Notebook | Type | Topic |
 | --- | --- | --- |
-| [placeholder] | [placeholder] | [placeholder] |
+| 37 | Lecture | Concatenating and merging DataFrames |
+| 38 | Lecture | Assessing and Cleaning Data |
+| 39 | Lecture | Assessing, cleaning and grouping data from a DataFrame |
+| 40 | Lecture | Defining functions to clean data |
+| 41 | Exercises | Data Integration |
+| 42 | Exercises | Data Assessment |
+| 43 | Exercises | Data Cleaning |
+| 44 | Exercises | Aggregating information and applying |
 
 ---
 
