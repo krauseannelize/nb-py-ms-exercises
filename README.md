@@ -100,7 +100,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | 40 | Lecture | Defining Functions to Clean Data |
 | [Notebook 41](/notebooks/s04_pandas_data_wrangling/41_exercises_data_integration.ipynb) | Exercises | Data Integration |
 | [Notebook 42](/notebooks/s04_pandas_data_wrangling/42_exercises_data_assessment.ipynb) | Exercises | Data Assessment |
-| 43 | Exercises | Data Cleaning |
+| [Notebook 43](/notebooks/s04_pandas_data_wrangling/43_data_cleaning.ipynb) | Exercises | Data Cleaning |
 | 44 | Exercises | Aggregating information and applying |
 
 ---
