@@ -95,7 +95,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | Notebook | Type | Topic |
 | --- | --- | --- |
 | [Notebook 37](/notebooks/s04_pandas_data_wrangling/37_concatenating_merging_dataframes.ipynb) | Lecture | Concatenating & Merging DataFrames |
-| 38 | Lecture | Assessing & Cleaning Data |
+| [Notebook 38](/notebooks/s04_pandas_data_wrangling/38_assessing_cleaning_data.ipynb) | Lecture | Assessing & Cleaning Data |
 | 39 | Lecture | Assessing, Cleaning & Grouping Data from a DataFrame |
 | 40 | Lecture | Defining Functions to Clean Data |
 | [Notebook 41](/notebooks/s04_pandas_data_wrangling/41_exercises_data_integration.ipynb) | Exercises | Data Integration |
