@@ -101,7 +101,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | [Notebook 41](/notebooks/s04_pandas_data_wrangling/41_exercises_data_integration.ipynb) | Exercises | Data Integration |
 | [Notebook 42](/notebooks/s04_pandas_data_wrangling/42_exercises_data_assessment.ipynb) | Exercises | Data Assessment |
 | [Notebook 43](/notebooks/s04_pandas_data_wrangling/43_exercises_data_cleaning.ipynb) | Exercises | Data Cleaning |
-| 44 | Exercises | Aggregating information and applying |
+| [Notebook 44](/notebooks/s04_pandas_data_wrangling/44_exercises_aggregating_information.ipynb) | Exercises | Aggregating information and applying |
 
 <sup>1</sup> _This lecture was a revision of the previous day's concepts to solidify knowledge - see [Notebook 38](/notebooks/s04_pandas_data_wrangling/38_assessing_cleaning_data.ipynb) for notes._
 
