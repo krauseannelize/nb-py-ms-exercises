@@ -119,7 +119,7 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 | Notebook 47 | Lecture | Multivariate Analysis |
 | Notebook 48 | Lecture | Complete EDA on Tips Dataset |
 | [Notebook 49](/notebooks/s05_pandas_eda/49_exercises_univariate_analysis.ipynb) | Exercises | Univariate Analysis within EDA |
-| Notebook 50 | Exercises | Univariate Analysis within EDA |
+| [Notebook 50](/notebooks/s05_pandas_eda/50_exercises_bivariate_analysis.ipynb) | Exercises | Bivariate Analysis within EDA |
 | Notebook 51 | Exercises | Multivariate EDA |
 
 ---
