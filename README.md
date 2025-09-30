@@ -129,6 +129,12 @@ Learn how to handle real-world data challenges by diving deeper into Python’s 
 - Apply your knowledge in a hands-on project.
 - Gain practical experience in cleaning, preparing, exploring, visualizing, and summarizing data.
 
-| Notebook | Type | Topic |
-| --- | --- | --- |
-| [placeholder] | [placeholder] | [placeholder] |
+| File | Description |
+| --- | --- |
+| [Project Description](/notebooks/s06_project/project-description.md) | Project overview with tasks and deliverables |
+| [Raw Data](/notebooks/s06_project/car-data.csv) | Original dataset provided for analysis |
+| [Metadata](/notebooks/s06_project/car-metadata.md) | Data dictionary with a description of the original dataset |
+| [Clean Data](/notebooks/s06_project/car-data-clean.csv) | Cleaned dataset after wrangling |
+| [Analysis](/notebooks/s06_project/car_dataset_analysis.ipynb) | Full exploratory data analysis (EDA) and key insights |
+
+This project applied the full data analysis workflow to uncover insights about vehicle pricing, efficiency, and performance.
