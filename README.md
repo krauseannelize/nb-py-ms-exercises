@@ -1,8 +1,29 @@
 # Python Notes | Masterschool Exercises
 
+## Table of Contents
+
+1. [Tools & Skills Used](#tools--skills-used)  
+2. [About This Repo](#about-this-repo)  
+3. [Intro to Python](#intro-to-python)  
+   - [Sprint 1: Python Basics](#sprint-1-python-basics)  
+   - [Sprint 2: Intermediate Python](#sprint-2-intermediate-python)  
+4. [Python for DA](#python-for-da)  
+   - [Sprint 3: Pandas Foundation](#sprint-3-pandas-foundation)  
+   - [Sprint 4: Data Wrangling with Pandas](#sprint-4-data-wrangling-with-pandas)  
+   - [Sprint 5: Exploratory Data Analysis (EDA) with Pandas](#sprint-5-exploratory-data-analysis-eda-with-pandas)  
+   - [Sprint 6: Project Week](#sprint-6-project-week)
+
 ## Tools & Skills Used
 
-[placeholder]
+![Python](https://img.shields.io/badge/Python-Programming-%233776AB)
+![Python](https://img.shields.io/badge/Python-EDA-%233776AB)
+![Python](https://img.shields.io/badge/Python-Data%20Wrangling-%233776AB)
+![Python](https://img.shields.io/badge/Python-pandas-%233776AB)
+![Python](https://img.shields.io/badge/Python-numpy-%233776AB)
+![Python](https://img.shields.io/badge/Python-seaborn-%233776AB)
+![Python](https://img.shields.io/badge/Python-matplotlib-%233776AB)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Interactive%20Analysis-%23C35817)
+![Google Colab](https://img.shields.io/badge/Google%20Colab%20Notebook-Cloud%20Analysis-%23F9AB00)
 
 ## About This Repo
 
